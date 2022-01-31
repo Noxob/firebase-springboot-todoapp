@@ -1,6 +1,6 @@
 # Firebase To-Do App
 
-This is the Spring Boot backend for a fullstack web application. Application uses Google Firebase as its data source. The frontend project is located [here](https://github.com/Noxob/angular-todoapp-ui). Project uses Spring Security for its security architecture and implements JWT authentication. API endpoints are documented via Swagger.
+This is the Spring Boot backend for a fullstack web application. Application uses Google Firebase Firestore as its data source. The frontend project is located [here](https://github.com/Noxob/angular-todoapp-ui). Project uses Spring Security for its security architecture and implements JWT authentication. API endpoints are documented via Swagger.
 
 ## Building:
 
